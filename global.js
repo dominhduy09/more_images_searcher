@@ -1,0 +1,1 @@
+const GIPHY_KEY = 'XAWf8Ou3WIsZKd9yOH44ZdX92mPsAPhX';
